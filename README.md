@@ -1,4 +1,5 @@
 Pavel Lazarovski 171098
 Control Flow Graph
-![alt text](https://github.com/[LazarovskiP]/[SI_2023_lab2_171098]/blob/[master]/ControlFlow.png?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[master]/image.jpg?raw=true)
+![ControlFlow](https://github.com/LazarovskiP/SI_2023_lab2_171098/assets/82408903/12b8c011-0521-4dbd-b405-2458dada16dd)
+
+
