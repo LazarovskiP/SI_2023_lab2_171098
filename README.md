@@ -1,1 +1,1 @@
-# SI_2023_lab2_171098
+Pavel Lazarovski 171098
